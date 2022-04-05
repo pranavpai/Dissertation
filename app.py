@@ -91,7 +91,7 @@ app.layout = html.Div([
                 html.Br(), degree,
                 html.Br(), gamma,
                 html.Br(),
-#                 html.Br(), shrinking,
+                html.Br(), shrinking,
                 html.Br()
             ]),
             width=4,
