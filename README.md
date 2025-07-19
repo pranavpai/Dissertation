@@ -355,10 +355,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 ### Author
-**[Your Name]**
-- Email: your.email@university.edu
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Pranav Pai**
+- Email: paipranav01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pranav-pai/
 
 ### Issues and Support
 - **Bug Reports**: [GitHub Issues](https://github.com/yourusername/dissertation/issues)
